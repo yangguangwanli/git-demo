@@ -1,7 +1,7 @@
-hello git!       change
+hello git!       c
 hello git!
 hello git!
-hello git!        here chage
+hello git!        here c
 hello git!
 hello git!
 hello git!
